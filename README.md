@@ -232,6 +232,9 @@ Test2
 
 ![](resources/images/test2.png)
 
+ Thanks to the escalation of heroku, regardless of the growth in requests there is a "null" loss.
+
+
 ## Badges
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/43a88f6d3f414708922717ca1d2b6ea8)](https://www.codacy.com/manual/develalopez/DigitalQueue?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=404NotFoundECI/DigitalQueue&amp;utm_campaign=Badge_Grade) 
 
