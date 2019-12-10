@@ -140,6 +140,10 @@ The system must provide real time services in an optimal way, responding fluentl
     5. Answer: The system behaves naturally and fluidly. 
     6. Response Measurement: Information transmitted in real time must be consistent. The actions of the other participants in the session are displayed in less than 5000 ms.
 
+Response time by heroku.
+
+![](resources/images/proc2.png)
+
 ### Authentication Scenario
 The system must allow interaction only to the pertinent users.
 
@@ -188,7 +192,6 @@ The services must require specific roles permissions to be used by the employees
     5. Answer: The server responds with 403 Unauthorized to all the pertinent requests to the API or the web pages .
     6. Response Measurement: The agent has no access to the dashboard or the API.
 
-
 [Admin Video](https://www.youtube.com/watch?v=AB5Fcosbwy8)
 
 [Service-Manager Video](https://www.youtube.com/watch?v=hRq3vb1B6PU)
@@ -196,10 +199,6 @@ The services must require specific roles permissions to be used by the employees
 [User Video](https://www.youtube.com/watch?v=NEP8FBO2x-M)
 
 [Agent Video](https://www.youtube.com/watch?v=vEkeQPl384M)
-
-
-
-
 
 ### Adaptability Scenario
 The website must be visible from any type of Internet browser covered by the **Bootstrap** framework that supports any device on the market.
@@ -220,6 +219,18 @@ The system must provide high availability, the portal will be accessible **90%**
     4. Artifact: Back-end Server.
     5. Answer: Resource requested or satisfactory error message (400).
     6. Response Measurement: The system does not show unplanned or unmanaged errors to the user, only 10% of requests are denied.
+
+Memory usage by heroku.
+
+![](resources/images/proc1.png)
+
+Test1
+
+![](resources/images/test1.png)
+
+Test2
+
+![](resources/images/test2.png)
 
 ## Badges
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/43a88f6d3f414708922717ca1d2b6ea8)](https://www.codacy.com/manual/develalopez/DigitalQueue?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=404NotFoundECI/DigitalQueue&amp;utm_campaign=Badge_Grade) 
