@@ -224,6 +224,14 @@ Memory usage by heroku.
 
 ![](resources/images/proc1.png)
 
+Test1
+
+![](resources/images/test1.png)
+
+Test2
+
+![](resources/images/test2.png)
+
 ## Badges
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/43a88f6d3f414708922717ca1d2b6ea8)](https://www.codacy.com/manual/develalopez/DigitalQueue?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=404NotFoundECI/DigitalQueue&amp;utm_campaign=Badge_Grade) 
 
