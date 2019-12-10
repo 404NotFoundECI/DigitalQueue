@@ -188,6 +188,19 @@ The services must require specific roles permissions to be used by the employees
     5. Answer: The server responds with 403 Unauthorized to all the pertinent requests to the API or the web pages .
     6. Response Measurement: The agent has no access to the dashboard or the API.
 
+
+[Admin Video](https://www.youtube.com/watch?v=AB5Fcosbwy8)
+
+[Service-Manager Video](https://www.youtube.com/watch?v=hRq3vb1B6PU)
+
+[User Video](https://www.youtube.com/watch?v=NEP8FBO2x-M)
+
+[Agent Video](https://www.youtube.com/watch?v=vEkeQPl384M)
+
+
+
+
+
 ### Adaptability Scenario
 The website must be visible from any type of Internet browser covered by the **Bootstrap** framework that supports any device on the market.
 
